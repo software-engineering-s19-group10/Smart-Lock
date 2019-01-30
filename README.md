@@ -1,7 +1,3 @@
-# Title:
-
-## Description:
-
 <p align="center">
 <img src="https://github.com/software-engineering-s19-group10/project_name/blob/master/software.svg" height="130">
 </p>
@@ -23,6 +19,16 @@
   <img alt="website" src="https://img.shields.io/website-up-down-green-red/https/software-engineering-s19-group10.github.io%2Fwebsite%2F.svg?label=website-status"/></a>
 </p>
 
+# placeholder_name
+
+## Description:
+
+- TBD
+
+## Features:
+
+- TBD
+
 ## Team:
 
 - [Amandip K.](https://github.com/ak1415)
@@ -37,9 +43,7 @@
 - [Eric L.](https://github.com/Yukirilin)
 
 ```
-Software Engineering [ECE 452]
-
-Ivan Marsic
-
-Rutgers University 2019
+Software Engineering [ECE 452]  
+Ivan Marsic  
+Rutgers University 2019  
 ```
