@@ -17,8 +17,7 @@
   <img alt="languages-ct" src="https://img.shields.io/github/languages/count/software-engineering-s19-group10/project_name.svg?style=popout"/></a>
 <a href="https://github.com/software-engineering-s19-group10/project_name"> 
   <img alt="repo-size" src="https://img.shields.io/github/repo-size/software-engineering-s19-group10/project_name.svg?style=popout"/></a>
-  
 </p>
 
 Team:
-
+https://img.shields.io/website-up-down-green-red/https/software-engineering-s19-group10.github.io/website/.svg?label=Website Status
