@@ -3,7 +3,7 @@
 ## Description:
 
 </p>
-<p align="left">
+<p align="center">
   
 <a href="https://github.com/software-engineering-s19-group10/project_name/graphs/contributors">
   <img alt="contributors" src="https://img.shields.io/github/contributors/software-engineering-s19-group10/project_name.svg?style=popout" /></a>
