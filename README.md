@@ -18,7 +18,7 @@
 <a href="https://github.com/software-engineering-s19-group10/project_name"> 
   <img alt="repo-size" src="https://img.shields.io/github/repo-size/software-engineering-s19-group10/project_name.svg?style=popout"/></a>
 <a href="https://software-engineering-s19-group10.github.io/website/"> 
-  <img alt="website" src="https://img.shields.io/website-up-down-green-red/https/software-engineering-s19-group10.github.io.svg?label=Website Status"/></a>
+  <img alt="website" src="https://img.shields.io/website-up-down-green-red/https/software-engineering-s19-group10.github.io%2Fwebsite%2F.svg?label=website-status"/></a>
 
 </p>
 
