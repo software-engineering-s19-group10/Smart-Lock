@@ -35,10 +35,13 @@ Our approach to the aforementioned problems involves the creation of an easy-to-
 >Homeowners will be able to register the faces of any number of individuals who should be capable of opening the door using the web application. The video camera, upon recognition of one of these faces, will unlock the door. Individuals not registered will be treated as visitors or strangers, requiring the homeowner to define the behavior of the security system in these situations, as will be explained below.
 
 >Necessities for detecting and recognizing faces and detecting masked individuals:
->In order for the system’s facial detection to work, the system must train on some organized dataset of faces.  Fortunately, the internet has many public datasets to train on.  Examples of some include 
+>In order for the system’s facial detection to work, the system must train on some organized dataset of faces.  Fortunately, the internet has many public datasets to train on.
+
+>Examples of some include 
 >http://tamaraberg.com/faceDataset/index.html
 >http://robotics.csie.ncku.edu.tw/Databases/FaceDetect_PoseEstimate.htm
 >http://www.wilmabainbridge.com/facememorability2.html
+
 >In order for the homeowner to allow specific faces to be recognized, a private database must be compiled. Specifically, the homeowner must self-compile a dataset to train on, namely providing a set of pictures of the person that is to be authenticated.
 >In order for the system to detect masked individuals, we will initially train on photos of black ski masks.  Due to a lack of public data pertaining to black ski masks, the current idea is to manually compile a dataset of black ski masks at different angles and different backgrounds. We will update the training set with other types of masks if time permits.
 
