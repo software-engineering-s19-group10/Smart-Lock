@@ -97,18 +97,16 @@ Our approach to the aforementioned problems involves the creation of an easy-to-
 >Create temporary Authentication url system (create the url system that is used to authorize ppl temporarily)
 >Add detail Authentication Configuration (for temporary members from url system) (e.g. u may only want certain ppl to gain access for a certain period of time, certain amount of days)
 >Smart Package Tracker and BarCode Authentication; More time? R&D additional security measures. 
->> [Daniel Nguyen](https://github.com/DanNguyen-CE)
->
->> [Michael Truong](https://github.com/MichaelTruongZ)
->
->> [Ted Moseley](https://github.com/tmose1106)
+>- [Daniel Nguyen](https://github.com/DanNguyen-CE)
+>- [Michael Truong](https://github.com/MichaelTruongZ)
+>- [Ted Moseley](https://github.com/tmose1106)
 
 - Team Two (A):
 >Database Structuring (Shared Infrastructure) and communicating structure to other subteams.
 >Assist group 2B with their responsibilities.
->> [Eric Lin](https://github.com/Yukirilin)
->
->> [Mohit Khattar](https://github.com/koml12)
+>- [Eric Lin](https://github.com/Yukirilin)
+>- [Mohit Khattar](https://github.com/koml12)
+
 
 - Team Two (B):
 >Data Visualization (be creative; using data on who and when (events log); e.g. how many people visited this month? who visited this month?)
@@ -117,9 +115,9 @@ Our approach to the aforementioned problems involves the creation of an easy-to-
 >Make all classes of notifications toggleable
 >SRN (Stranger Reporting Network) Server API and connect it to the server
 >Live feed communication between the server, embedded computer, and web client
->> [Mohammad Nadeem](https://github.com/mnadev)
->
->> [Andrew Sengupta](https://github.com/andrewsengupta)
+>- [Mohammad Nadeem](https://github.com/mnadev)
+>- [Andrew Sengupta](https://github.com/andrewsengupta)
+
 
 - Team Three:
 >Motion Detection
@@ -128,11 +126,9 @@ Our approach to the aforementioned problems involves the creation of an easy-to-
 >Masked person Detection (must implement own interface/unlock signal to lock)
 >Create backend and frontend for Auth Permissions (add active members)
 >Add detail Authentication Configuration (for people recognized by face) (e.g. you may only want certain people to gain access for a certain period of time, certain amount of days)
->>[Amandip Kaler](https://github.com/ak1415)
->
->>[Jasjit Janda](https://github.com/jandaj)
->
->>[Jeff Lu](https://github.com/jefflu188)
+>- [Amandip Kaler](https://github.com/ak1415)
+>- [Jasjit Janda](https://github.com/jandaj)
+>- [Jeff Lu](https://github.com/jefflu188)
 
 
 ```
