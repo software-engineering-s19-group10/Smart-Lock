@@ -89,18 +89,44 @@ Our approach to the aforementioned problems involves the creation of an easy-to-
 (Note that the primary objective of this project is to work on the software behind the smart lock.  The hardware for the lock is not a focus, however if we have enough time we will also design hardware sufficient for live demonstration purposes.  The software will be ready to connect to hardware.)
 
 
-## Team:
+## Group Members:
 
-- [Amandip Kaler](https://github.com/ak1415)
-- [Andrew Sengupta](https://github.com/andrewsengupta)
-- [Daniel Nguyen](https://github.com/DanNguyen-CE)
-- [Jasjit Janda](https://github.com/jandaj)
-- [Jeff Lu](https://github.com/jefflu188)
-- [Mohit Khattar](https://github.com/koml12)
-- [Michael Truong](https://github.com/MichaelTruongZ)
-- [Mohammad Nadeem](https://github.com/mnadev)
-- [Ted Moseley](https://github.com/tmose1106)
-- [Eric Lin](https://github.com/Yukirilin)
+- Team One:
+>Web App Unlocker (Actually unlocks the door itself without any sort of Face ID or URL.  The frontend and backend)
+>Create backend and frontend for Auth Permissions (allowing temporary members)
+>Create temporary Authentication url system (create the url system that is used to authorize ppl temporarily)
+>Add detail Authentication Configuration (for temporary members from url system) (e.g. u may only want certain ppl to gain access for a certain period of time, certain amount of days)
+>Smart Package Tracker and BarCode Authentication; More time? R&D additional security measures. 
+>> [Daniel Nguyen](https://github.com/DanNguyen-CE)
+>> [Michael Truong](https://github.com/MichaelTruongZ)
+>> [Ted Moseley](https://github.com/tmose1106)
+
+- Team Two (A):
+>Database Structuring (Shared Infrastructure) and communicating structure to other subteams.
+>Assist group 2B with their responsibilities.
+>> [Eric Lin](https://github.com/Yukirilin)
+>> [Mohit Khattar](https://github.com/koml12)
+
+- Team Two (B):
+>Data Visualization (be creative; using data on who and when (events log); e.g. how many people visited this month? who visited this month?)
+>Create backend and frontend for "events log" (a log of significant events (masked person detected, face detected, motion detected, facial recognized))
+>Create SMS notification handler (handles any sort of notification (notify user of any event))
+>Make all classes of notifications toggleable
+>SRN (Stranger Reporting Network) Server API and connect it to the server
+>Live feed communication between the server, embedded computer, and web client
+>> [Mohammad Nadeem](https://github.com/mnadev)
+>> [Andrew Sengupta](https://github.com/andrewsengupta)
+
+- Team Three:
+>Motion Detection
+>Facial Detection
+>Facial Recognition
+>Masked person Detection (must implement own interface/unlock signal to lock)
+>Create backend and frontend for Auth Permissions (add active members)
+>Add detail Authentication Configuration (for people recognized by face) (e.g. you may only want certain people to gain access for a certain period of time, certain amount of days)
+>>[Amandip Kaler](https://github.com/ak1415)
+>>[Jasjit Janda](https://github.com/jandaj)
+>>[Jeff Lu](https://github.com/jefflu188)
 
 ```
 Software Engineering [ECE 452]  
