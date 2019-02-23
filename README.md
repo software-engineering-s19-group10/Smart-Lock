@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/software-engineering-s19-group10/smart-lock/blob/master/SmartLock_Logo_1.jpg" height="300">
+<img src="https://github.com/software-engineering-s19-group10/smart-lock/blob/master/SmartLock_Logo_v2.jpg" height="300">
 </p>
 
 <p align="center">
